@@ -1,0 +1,12 @@
+/* Simple stylesheet for my homepage */
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 14;
+}
+
+h1 {
+	text-align: center;
+	font-size: 82;
+}
