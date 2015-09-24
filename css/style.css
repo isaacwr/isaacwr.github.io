@@ -3,11 +3,28 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 14;
+	font-weight: 100;
+	color: #222;
+	background-color: #fcfcfc;
+}
 
-	background-color: #222;
+p {
+	font-size: 44;
 }
 
 h1 {
 	text-align: center;
 	font-size: 82;
+}
+
+h6 {
+	font-size: 30;
+	font-style: italic;
+}
+
+.specialFreedom {
+	color: red;
+	font-style: bold;
+	font-size: 24;
+
 }
